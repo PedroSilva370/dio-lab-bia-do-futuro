@@ -70,10 +70,10 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [ ] Agente só responde com base nos dados fornecidos
-- [ ] Não recomenda investimentos específicos
-- [ ] Quando não sabe, admite e redireciona
-- [ ] Foca apenas em educar, não em aconselhar
+- [x] Agente só responde com base nos dados fornecidos
+- [x] Não recomenda investimentos específicos
+- [x] Quando não sabe, admite e redireciona
+- [x] Foca apenas em educar, não em aconselhar
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
